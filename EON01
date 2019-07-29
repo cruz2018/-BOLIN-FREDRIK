@@ -1,0 +1,13 @@
+SCENARIO:  Outlook mailbox was not accessible
+BRIEF DESCRIPTION:  The user was not able to access outlook mail box
+
+ACTOR: User
+
+Title: Outlook mailBox
+
+BASIC FLOW:  
+1. The user called in having problem with logging into his email on the phone.
+
+2. I advised user to wait for 24 hours and try again because it might takes the system a bit of time  for the ccount to synchronise to the cloud
+
+3. User agreed to case closure. 
